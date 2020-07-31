@@ -1,10 +1,6 @@
 # Diseños de ETHGDL
 
-Diseños realizados con [Inkscape](https://inkscape.org/).
-
-## Archivos editables
-
-- .svg
+Diseños realizados con [Inkscape](https://inkscape.org/) (.svg).
 
 ## Logo ETHGDL
 
