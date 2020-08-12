@@ -4,7 +4,7 @@ Diseños realizados con [Inkscape](https://inkscape.org/) (.svg).
 
 ## Logo ETHGDL
 
-![](https://raw.githubusercontent.com/ethgdl/design/master/logo/v2/eth-gdl-website-1.png)
+![](https://raw.githubusercontent.com/ethgdl/design/master/logo/website-logo/eth-gdl-website-256.png)
 
 ### Historial de diseño
 
