@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="500"
+   viewBox="0 0 396.87499 132.29167"
+   version="1.1"
+   id="svg1506"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="ETHGDL-header.svg">
+  <defs
+     id="defs1500" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34988225"
+     inkscape:cx="745.76755"
+     inkscape:cy="44.993858"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     units="px" />
+  <metadata
+     id="metadata1503">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Header"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g1198"
+       transform="translate(-145.97165,-180.3848)">
+      <rect
+         y="180.3848"
+         x="145.97165"
+         height="132.29167"
+         width="396.875"
+         id="rect1049"
+         style="fill:#f9f9f9;stroke:none;stroke-width:7.64935" />
+      <g
+         id="g1186"
+         transform="matrix(3.8409959,0,0,3.8409959,-1064.7998,-683.56102)">
+        <text
+           id="text1129"
+           y="244.31714"
+           x="362.776"
+           style="font-size:1.74183px;line-height:1.25;font-family:'Khmer MN';-inkscape-font-specification:'Khmer MN, Normal';fill:#de87cd;stroke-width:0.0870912"
+           xml:space="preserve"><tspan
+             id="tspan1127"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80609px;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de87cd;stroke-width:0.0870912"
+             y="244.31714"
+             x="362.776"
+             sodipodi:role="line">Guadalajara</tspan></text>
+        <text
+           id="text1133"
+           y="244.34618"
+           x="324.21893"
+           style="font-size:1.74183px;line-height:1.25;font-family:'Khmer MN';-inkscape-font-specification:'Khmer MN, Normal';fill:#de87cd;stroke-width:0.0870912"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80609px;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de87cd;stroke-width:0.0870912"
+             y="244.34618"
+             x="324.21893"
+             id="tspan1131"
+             sodipodi:role="line">ETHEREUM</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
